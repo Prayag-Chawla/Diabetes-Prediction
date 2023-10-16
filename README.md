@@ -56,6 +56,7 @@ Decision trees
 Random forests
 Gradient boosting models
 Neural networks
+![image](https://github.com/Prayag-Chawla/Diabetes-Prediction/assets/92213377/23e3ed16-f75c-41f0-ba93-b66fa5500d45)
 
 
 ## Model used
@@ -88,6 +89,7 @@ from sklearn.preprocessing import StandardScaler
 
 ## Accuracy
 There was a very high Accuracy from the model as we were able to get the decision variables from the common area under the plotted graph.
+We finally got an acuracy of around 75 %.
 
 
 
@@ -129,6 +131,12 @@ A very crucial project in the realm of data science and bio medical domain using
 ## Tech Stack
 
 **Client:** Python, CATboost classifier, EDA analysis, machine learning, sequential model of ML, SHAP explainer model, data visualization libraries of python.
+
+## OUTPUT
+![image](https://github.com/Prayag-Chawla/Diabetes-Prediction/assets/92213377/19a25f20-1def-4cb5-87a5-d957215bbfd4)
+![image](https://github.com/Prayag-Chawla/Diabetes-Prediction/assets/92213377/be49fcda-2ae6-4663-9ef6-800626f50645)
+![image](https://github.com/Prayag-Chawla/Diabetes-Prediction/assets/92213377/f55ff812-04e2-47c5-96dd-89f99b365a00)
+![image](https://github.com/Prayag-Chawla/Diabetes-Prediction/assets/92213377/27c681da-873c-4de4-8405-0c865f08b4c8)
 
 
 
